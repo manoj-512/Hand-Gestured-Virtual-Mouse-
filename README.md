@@ -7,8 +7,8 @@ This approach enables hands-free interaction with a computer, making it particul
 ## Gestures
 ![Left_Click](LeftClick.png)
 ![Right_Click](Right_Click.png)
-![Double_Click](Double taken.png)
-![Cursor_Movement](cursorMovement.png)
+![Double_Click]([Double taken.png](https://github.com/manoj-512/Hand-Gestured-Virtual-Mouse-/blob/main/Double%20taken.png?raw=true))
+![Cursor_Movement]([cursorMovement.png](https://github.com/manoj-512/Hand-Gestured-Virtual-Mouse-/blob/main/cursor%20Movement.png?raw=true))
 
 
 
