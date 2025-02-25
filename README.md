@@ -8,7 +8,7 @@ This approach enables hands-free interaction with a computer, making it particul
 ![Left_Click](LeftClick.png)
 ![Right_Click](Right_Click.png)
 ![Double_Click](Double taken.png)
-![Cursor_Movement](cursor Movement.png)
+![Cursor_Movement](cursorMovement.png)
 
 
 
